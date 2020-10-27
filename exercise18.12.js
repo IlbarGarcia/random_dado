@@ -107,3 +107,6 @@ document
 function pruebaGit(){
   console.log('hola mundo ')
 }
+function pruebaGit1(){
+  console.log('hola mundo ')
+}
