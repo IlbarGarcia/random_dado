@@ -96,6 +96,7 @@ const data = () => {
     contador1 = contador2;
   }
   console.log(`repeticions${contador}`);
+  console.log('prueba git')
 };
 document
   .getElementById(`button`)
@@ -103,3 +104,6 @@ document
     `click`,
     data
   ); /*aqui esstamos creando el evento del boton */
+function pruebaGit(){
+  console.log('hola mundo ')
+}
